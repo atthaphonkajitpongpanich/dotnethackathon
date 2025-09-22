@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\dotnethackathon\\WebApi\\WebApi.csproj": {}
+    "/home/runner/work/dotnethackathon/dotnethackathon/WebApi/WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\dotnethackathon\\WebApi\\WebApi.csproj": {
+    "/home/runner/work/dotnethackathon/dotnethackathon/WebApi/WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\dotnethackathon\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "/home/runner/work/dotnethackathon/dotnethackathon/WebApi/WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\Projects\\dotnethackathon\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\v-atthaphonk\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\dotnethackathon\\WebApi\\obj\\",
+        "projectPath": "/home/runner/work/dotnethackathon/dotnethackathon/WebApi/WebApi.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/dotnethackathon/dotnethackathon/WebApi/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\v-atthaphonk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -75,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/runner/.dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
