@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Os/wcd1EUh0=",
+  "dgSpecHash": "T0TFGy0v/fW4Bq8vZFL2wNq2v7h79+mbwHZnaXfpcDQdCVD8ljFn8WW19K885oQFB9wT56gwOcNupN5mn6aJyA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\dotnethackathon\\WebApi\\WebApi.csproj",
+  "projectFilePath": "/home/runner/work/dotnethackathon/dotnethackathon/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\v-atthaphonk\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
-    "C:\\Users\\v-atthaphonk\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "/home/runner/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }
